@@ -1,0 +1,4 @@
+Es wurde kein Port gefunden!
+2020-3-24 20:20:55
+Rollo Data: {"sName":"rollo-lea","nKarte":1,"nSlot":2} Action: true
+Ausgabe für Karte 1: 3,1,4,6
